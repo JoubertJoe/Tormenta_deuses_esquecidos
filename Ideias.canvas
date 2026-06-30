@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d28b808c2d831694","type":"text","text":"Cidade Fechada","x":213,"y":-653,"width":250,"height":60},
+		{"id":"f186a5fa13be7bef","type":"text","text":"Azgher?","x":213,"y":-440,"width":250,"height":60},
+		{"id":"81d4c107ad43f919","type":"text","text":"Clã Hikariryū","x":431,"y":-320,"width":250,"height":51,"color":"1"},
+		{"id":"be8a27dddc49b900","type":"text","text":"Culto antigo\n","x":-540,"y":-653,"width":225,"height":85},
+		{"id":"83d277d265a3cbc7","type":"text","text":"símbolo deusa antiga lua","x":-259,"y":-440,"width":250,"height":60},
+		{"id":"df37371a8758f801","type":"text","text":"Chuva Vermelha","x":-259,"y":-269,"width":250,"height":60},
+		{"id":"59a51dddc8086729","type":"text","text":"Templo Profanado","x":45,"y":-40,"width":250,"height":60,"color":"2"},
+		{"id":"47b46a5464200a43","type":"text","text":"Supremacia Purista","x":463,"y":300,"width":250,"height":71},
+		{"id":"3cf8a9a31291ec51","type":"text","text":"Clã Inagawa","x":-240,"y":371,"width":250,"height":60,"color":"3"},
+		{"id":"c6c8e5756c7220e5","type":"text","text":"Dr. Emanuel","x":463,"y":600,"width":250,"height":60,"color":"1"},
+		{"id":"88f80ffffb6cf51f","type":"text","text":"Cidade Subterrânea","x":400,"y":100,"width":250,"height":60},
+		{"id":"3d4756ba33ba9eea","x":740,"y":100,"width":250,"height":60,"color":"2","type":"text","text":"Catatumbas de Leverick"}
+	],
+	"edges":[
+		{"id":"80be95cfaf748450","fromNode":"be8a27dddc49b900","fromSide":"bottom","toNode":"83d277d265a3cbc7","toSide":"top"},
+		{"id":"b3397ffa7dc77a01","fromNode":"83d277d265a3cbc7","fromSide":"bottom","toNode":"df37371a8758f801","toSide":"top"},
+		{"id":"5a7812469431dfb5","fromNode":"f186a5fa13be7bef","fromSide":"left","toNode":"83d277d265a3cbc7","toSide":"right"},
+		{"id":"8f4f229e02d4368c","fromNode":"d28b808c2d831694","fromSide":"bottom","toNode":"f186a5fa13be7bef","toSide":"left"},
+		{"id":"5ea93892e0c0dfe0","fromNode":"df37371a8758f801","fromSide":"bottom","toNode":"59a51dddc8086729","toSide":"left"},
+		{"id":"649213ecd13dd08b","fromNode":"f186a5fa13be7bef","fromSide":"bottom","toNode":"59a51dddc8086729","toSide":"top"},
+		{"id":"ee9ec260f7dd4c62","fromNode":"81d4c107ad43f919","fromSide":"top","toNode":"f186a5fa13be7bef","toSide":"right"},
+		{"id":"2f9e39046dac5fb7","fromNode":"83d277d265a3cbc7","fromSide":"top","toNode":"59a51dddc8086729","toSide":"right"},
+		{"id":"0479482f4ee2f081","fromNode":"59a51dddc8086729","fromSide":"bottom","toNode":"88f80ffffb6cf51f","toSide":"left"},
+		{"id":"927640fefe15a893","fromNode":"47b46a5464200a43","fromSide":"bottom","toNode":"c6c8e5756c7220e5","toSide":"right"},
+		{"id":"23542535fdd3ac04","fromNode":"88f80ffffb6cf51f","fromSide":"right","toNode":"3cf8a9a31291ec51","toSide":"right"},
+		{"id":"f87f4b78730ace27","fromNode":"3cf8a9a31291ec51","fromSide":"bottom","toNode":"47b46a5464200a43","toSide":"left"},
+		{"id":"6d9917a63145abbd","fromNode":"be8a27dddc49b900","fromSide":"bottom","toNode":"3cf8a9a31291ec51","toSide":"left"},
+		{"id":"f1b34777f0b38a50","fromNode":"88f80ffffb6cf51f","fromSide":"bottom","toNode":"3d4756ba33ba9eea","toSide":"bottom"},
+		{"id":"7a3ef2315d5c45a5","fromNode":"3d4756ba33ba9eea","fromSide":"right","toNode":"c6c8e5756c7220e5","toSide":"right"}
+	]
+}

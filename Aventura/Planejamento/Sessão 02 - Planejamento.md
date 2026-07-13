@@ -7,7 +7,12 @@
 > das melhores, mas com certeza vai encher a barriga de vocês. Não ache que a chave 
 > foi de graça, eu ainda vou pagar vocês pela manhã com moeda e informação.
 
+Nancy deve questionar os aventureiros sobre símbolos do cultistas e logo em seguida entregar uma adaga semelhante a que eles pegaram, que havia se desintegrado, porém, essa apesar de quebrada, não se esfarela. Nancy comenta sobre ter arrancado a adaga de um cultista que estava em sua taverna durante uma confusão.
 
+
+> [!NOTE] Nancy diz:
+> Vocês descobriram algo sobre os malditos cultistas?
+> Algum símbolo ou ítem que possa identificar esses desgraçados?
 
 O que o grupo escolherá?
 
@@ -96,11 +101,11 @@ Se os jogadores investigarem uma parede falsa ou desarmarem uma armadilha de gel
 - **Anel de Latão do Culto:** Um anel com o símbolo dos Deuses Esquecidos. Não é mágico, mas vale **25 TO** para um colecionador ou pode ser usado como disfarce/reconhecimento mais para a frente na campanha.
     
 
-## 3. O Grande Achado: O Mistério da Adaga de Grace
+## 3. O Grande Achado: O Mistério da Adaga de Gahliel
 
-Já que a Grace achou uma adaga quebrada, que tal amarrar isso com um tesouro no calabouço?
+Já que a Gahliel achou uma adaga quebrada, que tal amarrar isso com um tesouro no calabouço?
 
-Na penúltima sala antes do Gólem de Gelo, eles encontram o corpo congelado do antigo dono daquela adaga (talvez um cultista traído ou um caçador de relíquias). Junto ao corpo, eles encontram:
+Na penúltima sala antes do Gólem de Gelo, eles encontram o corpo congelado com uma adaga (talvez um cultista traído ou um caçador de relíquias). Junto ao corpo, eles encontram:
 
 - **A Bainha Mística da Adaga:** A bainha que completa a arma que Grace achou. Se a lâmina quebrada for colocada ali, runas vermelhas brilham. Embora a adaga continue quebrada (reduzindo seu dano para 1d3), o poder da bainha faz com que a lâmina emane um calor sobrenatural.
     
@@ -136,6 +141,8 @@ Na penúltima sala antes do Gólem de Gelo, eles encontram o corpo congelado do 
 - **Tática "Prende e Derrete":** O objetivo dos caranguejos é usar a habilidade _Agarrar_ para imobilizar os alvos mais frágeis ou os combatentes da linha de frente. Enquanto o jogador estiver agarrado pela pinça congelante, ele se torna um alvo estático e fácil para receber o **Sopro Gélido** em cheio do Gólem de Gelo Lunar, sem direito a testes fáceis de Reflexos para esquivar.
     
 - **A Poça D'água:** Onde os caranguejos estão pisando há uma fina camada de água congelada. Se os jogadores tentarem empurrá-los para a água, os caranguejos recebem +2 em testes para resistir, pois suas patas pontiagudas se fixam perfeitamente no gelo.
+
+
 
 
 

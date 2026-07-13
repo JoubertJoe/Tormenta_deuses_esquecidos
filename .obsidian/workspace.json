@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d325878b1d92dbbe",
+        "id": "90044775a5d97bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "925b72bce641a47e",
+            "id": "910d5427688178af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventura/Notas/Aventura 02.md",
+                "file": "Aventura/Sessões/Aventura Completa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aventura 02"
+              "title": "Aventura Completa"
             }
           }
         ]
@@ -185,14 +185,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "925b72bce641a47e",
+  "active": "910d5427688178af",
   "lastOpenFiles": [
-    "Aventura/Planejamento/Sessão 02 - Planejamento.md",
-    "Aventura/Notas/Aventura 02.md",
-    "Aventura/Planejamento/Sessão 01 - Planejamento.md",
-    "Inimigos/ND 1 ou Menor/Filhote de Caranguejo de Gelo.md",
-    "Inimigos/ND 2/Gólem de Gelo Lunar.md",
+    "Aventura/Sessões/Aventura 0 (Prólogo).md",
+    "Aventura/Sessões/Aventura Completa.md",
+    "Aventura/Sessões/Aventura 01 - As Engrenagens sob o Luar.md",
+    "Aventura/Sessões/Aventura 02 - O Sangue no Gelo e os Segredos da Terra.md",
+    "Aventura/Itens/Diário 01.md",
+    "imagens/Aventura/aventura 02-02.jpg",
+    "Aventura 02-.md",
+    "imagens/Aventura/aventura 02-02.jfif",
+    "Aventura/Notas/Aventura 02 Notas.md",
+    "imagens/Aventura/Avemtira 02-01.jfif",
+    "imagens/Aventura/Não confirmado 494883.crdownload",
     "Aventura/Notas/Aventura 01 Notas.md",
+    "Inimigos/ND 2/Gólem de Gelo Lunar.md",
+    "Inimigos/TEMPLATE.md",
+    "Inimigos/ND 1 ou Menor/Fanático Lunar (Líder).md",
+    "Inimigos/ND 1 ou Menor/Fanático Lunar.md",
+    "Inimigos/ND 1 ou Menor/Filhote de Caranguejo de Gelo.md",
+    "Inimigos/ND 1 ou Menor/Caranguejo Gélido.md",
+    "Aventura/Planejamento/Sessão 02 - Planejamento.md",
+    "Aventura/Planejamento/Sessão 01 - Planejamento.md",
     "Aventura/Itens/Relatórios Puristas (01 ao 05).md",
     "Aventura/Itens/Página Rasgada de um Diário de Campo.md",
     "Ideias.canvas",
@@ -206,10 +220,6 @@
     "Ficha/Ficha de Grace Inagawa.pdf",
     "Ficha/Não confirmado 348267.crdownload",
     "Inimigos/ND 1 ou Menor/Livro da Tormenta ND1.md",
-    "Inimigos/ND 1 ou Menor/Fanático Lunar (Líder).md",
-    "Inimigos/ND 1 ou Menor/Fanático Lunar.md",
-    "Inimigos/ND 1 ou Menor/Caranguejo Gélido.md",
-    "Aventura/Itens/Diário 01.md",
     "Cidades/Norba/NPCs/Lyra.md",
     "Ficha/Ficha Hakkotsumaru.md",
     "imagens/NPCs/suragheel03.jpg",
@@ -221,20 +231,10 @@
     "imagens/NPCs/suragheel06.jpg",
     "imagens/NPCs/ranger.jpg",
     "imagens/NPCs/qaren04.jpg",
-    "imagens/NPCs/qaren02.jpg",
     "imagens/NPCs/Especiais/NancyToken.jfif",
     "imagens/NPCs/Especiais",
     "imagens/NPCs",
-    "imagens/Inimigos/Token",
-    "imagens/Inimigos/imagens",
-    "imagens/Inimigos/Gólem de Gelo Lunar.json",
-    "Inimigos/TEMPLATE.md",
     "Trama/Cidadões.md",
-    "Trama/Os cultos.md",
-    "Inimigos/Lobo Corrompido ND 1p3.md",
-    "Personagens/Zeta (Xan).md",
-    "Aventura/Sessões/Aventura 01 - As Engrenagens sob o Luar.md",
-    "Aventura/Sessões/Aventura 0 (Prólogo).md",
     "Deuses.canvas"
   ]
 }

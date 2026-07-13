@@ -63,19 +63,27 @@ Em outra sala, eles encontram um anel:
 
 Investigam o Golem, sem sucesso.
 
-Após andarem pelas salas, enfretaram caranguejos de gelo filhote, e droparam 6 Pequenos fragmentos de gelo cristalino (valem 2 TO cada para alquimistas locais).
+Em uma sala gélida, com água escorrendo pelo chão, uma água lamacenta, nojenta, quase congelando, não é possível ver de onde ela vem, mas é notável sua textura e ponto de gelo, pisar na água por um breve momento, é possível ver pequenos cristais de gelo se formando.
+O Grupo se separa, Vaelith vai para o norte do corredor, investigar a sala alagada, Gahliel vai para o sul verificar o corredor em busca de passagens, e Grace fica no meio do corredor avaliando a situação.
+Quando Vaelith acende as tochas da sala inundada o som de alguns caranguejos rastejando pela água surge, ela é surpreendida por 3 filhotes de caranguejo gélido.
+Os filhotes a cercam e fecham a passagem da sala.
+Grace corre em sua direção e inicia o combate com os caranguejos, Gahliel escuta o grito de batalha e vê a movimentação, infelizmente o terreno difícil dificulta que ele se aproxime a tempo.
+Vaelith consegue matar um dos caranguejos usando uma magia de toque elétrico.
+Devido a quantidade de água no local, Vaelith evita usar a magia novamente com receio de acertar seus colegas de aventura.
+Grace sangra um dos caranguejos com sua adaga, Vaelith finaliza com uma adaga mental a distância.
+Gahliel cerca o terceiro caranguejo no corredor, e o destrói com seu martelo de guerra, o sangue do caranguejo voa em seu rosto e congela em seu martelo, apesar de tudo, o grupo sai vitorioso e sem muitos danos.
 
+Após andarem pelas salas e enfretarem caranguejos de gelo filhote que droparam 6 Pequenos fragmentos de gelo cristalino (valem 2 TO cada para alquimistas locais) Grace, avança para a sala seguinte, a sala totalmente inundada e cheia de uma névoa gerada pelo gelo com água corrente, porém no canto da sala ela percebe um corpo congelado de um cultista, neste corpo Grace econtra:
 
-
-Grace, encontra um corpo em uma sala isolada.
-Junto ao corpo, ela encontra:
+- Uma adaga quebrada semelhante a anterior que haviam visto nas mãos dos cultistas, a adaga está quebrada porém contém runas entalhadas na mesma.
 
 - **A Bainha Mística da Adaga:** A bainha que completa a arma que Grace achou. Se a lâmina quebrada for colocada ali, runas vermelhas brilham. Embora a adaga continue quebrada (reduzindo seu dano para 1d3), o poder da bainha faz com que a lâmina emane um calor sobrenatural.
     
-- _Efeito:_ A adaga quebrada passa a causar **+1d6 de dano de fogo** e ignora a imunidade a frio de criaturas adjacentes. É uma forma poética e mecânica de transformar o "lixo" que ela achou em uma arma perfeitamente balanceada para derrotar o Gólem de Gelo!
+- _Efeito:_ A adaga quebrada passa a causar **+1d6 de dano de fogo** e ignora a imunidade a frio de criaturas adjacentes. 
 
-Em outra sala encontram paredes de gelo, após tentar varias táticas sem sucesso, Grace tenta usar sua adaga de fogo e consegue finalmente revelar duas salas, ambas parecem ter sido usadas pelos cultistas e pelos guardas para guardar equipamentos militares.
+Em outra sala encontram paredes de gelo, após tentar varias táticas, como Gahliel usar um body slam apoiado em seu escudo, sem sucesso, Grace tenta usar sua adaga de fogo e consegue finalmente revelar duas salas, ambas parecem ter sido usadas pelos cultistas e pelos guardas para guardar equipamentos militares.
 Nessas salas eles encontram:
+
 1. 2x Óleos de Ignição: Um frasco com um óleo alquímico espesso. Se aplicado em uma arma de corte ou perfuração (gasta uma ação de movimento), faz a arma causar +1d4 de dano de fogo pelos próximos 3 turnos. (Excelente para quem luta corpo a corpo ou usa arco).
     
 2. Uma Algibeira com Pedras de Fogo: 3 pedras que, quando batidas contra o metal, explodem em uma pequena fagulha brilhante. Funcionam como fumaça ou para acender fogueiras instantaneamente mesmo no vento congelante.

@@ -46,3 +46,4 @@ Foi então que Grace desembainhou a recém-descoberta adaga rúnica. O calor mí
 Com novos recursos, armas aquecidas pelo misticismo e o sangue de monstros congelado em suas armaduras, os três aventureiros olharam para a escuridão que se estendia adiante. O rastro de Lyra continuava, e as respostas estavam cada vez mais profundas.
 
 ![[aventura 02-02.jpg]]
+

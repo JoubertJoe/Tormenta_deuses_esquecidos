@@ -125,9 +125,6 @@ Na penúltima sala antes do Gólem de Gelo, eles encontram o corpo congelado com
     
 - **A Saída:** Descoberta do acampamento de Lyra, revelando que os cultistas estão trabalhando como "batedores" para os Puristas/Dr. Emanuel.
     
-- **Transição Final:** O rastro de Lyra aponta diretamente para o local onde o NPC está preso e onde o novo jogador surgirá como o contato essencial para a infiltração da próxima área.
-
-
 
 ---
 ## Combate 
@@ -141,6 +138,45 @@ Na penúltima sala antes do Gólem de Gelo, eles encontram o corpo congelado com
 - **Tática "Prende e Derrete":** O objetivo dos caranguejos é usar a habilidade _Agarrar_ para imobilizar os alvos mais frágeis ou os combatentes da linha de frente. Enquanto o jogador estiver agarrado pela pinça congelante, ele se torna um alvo estático e fácil para receber o **Sopro Gélido** em cheio do Gólem de Gelo Lunar, sem direito a testes fáceis de Reflexos para esquivar.
     
 - **A Poça D'água:** Onde os caranguejos estão pisando há uma fina camada de água congelada. Se os jogadores tentarem empurrá-los para a água, os caranguejos recebem +2 em testes para resistir, pois suas patas pontiagudas se fixam perfeitamente no gelo.
+
+---
+_(Narração logo após a derrota do Gólem de Gelo Lunar)_
+
+>Com o golpe final, o núcleo místico do Gólem se estilhaça em centenas de pedaços opacos. No mesmo instante, as runas azul-neon que selavam a Grande Porta de Ferro piscam e apagam. A espessa camada de gelo que parecia fundida à rocha começa a derreter rapidamente, escorrendo como cascatas de água cinzenta até revelar a pesada estrutura de metal, que cede com um rangido ecoante, abrindo-se pesadamente.
+
+
+>"Ao cruzarem o portal, o ambiente muda. Vocês deixam para trás a câmara congelada e entram em uma área úmida e abafada dos limites da _Norba Invertida_, logo abaixo dos dutos do Banco Balde D'ouro. O ar aqui cheira a maresia, esgoto e peixe defumado. O eco da água correndo pelas tubulações é constante, mas o chão de pedra e lama está livre do frio mágico."
+
+## O acampamento
+
+>Mais à frente na câmara, vocês avistam sinais de que alguém usou este lugar como refúgio recente. Há restos de uma fogueira apagada , feita com pedaços de caixotes de madeira do banco e algas secas para não gerar fumaça visível. Uma esteira de palha revirada e marcas pesadas de botas militares na lama indicam que uma emboscada aconteceu ali não faz muito tempo.
+
+**O que eles encontram enquanto descansam e investigam:**
+
+1. **Pista Visual:** Uma mecha de cabelo brilhante ou um pequeno amuleto planar com traços de energia de _Suraggel_ jogado perto da esteira.
+    
+	1. **O Documento (O Diário de Campo de Lyra):** Escondido às pressas sob uma caixa de avelãs vazia para não ser pego pelos inimigos.
+#### O Diário de Lyra
+
+_"Os malditos cultistas não estão agindo sozinhos aqui embaixo. Eles estão limpando as criaturas e o gelo dos túneis para que as forças do Dr. Emanuel e da Supremacia Purista possam transportar materiais pesados diretamente para a Cidade Subterrânea. Fui descoberta por batedores deles enquanto mapeava o duto sob o banco... Se alguém achar isso, saiba que eles estão levando a garota Suraggel para as profundezas. Vou tentar recuar em direção aos dutos de escoamento, onde Nancy disse que haveria um contato..."_
+
+
+### A Abordagem de Barnabé "O Sanguessuga"
+
+_(Assim que eles terminam o descanso ou terminam de ler o documento, o encontro acontece)_
+
+> "Enquanto vocês guardam o documento e terminam de recuperar o fôlego, o silêncio da câmara é cortado por um som bizarro vindo dos canos escuros adjacentes: uma melodia desafinada de violino acompanhada pelo barulho seco de canecos de madeira batendo e risadas ásperas, sem fôlego."
+
+> "Das sombras da Norba Invertida, figuras surgem. São esqueletos vestindo trapos de casacos de marujos e bandanas piratas, mas suas órbitas vazias brilham com uma luz mágica azulada e medalhões antigos cintilam em seus peitos. Sentado em caixas de moedas vazias do banco como se fosse um trono, um esqueleto imponente usa uma adaga para palitar os dentes expostos. Ele olha para vocês, cospe uma gosma de alga no chão e guarda a arma na fivela esquerda de seu peitoral de metal."
+
+> **Barnabé diz com sua voz seca e ecoante:** _"Ora, ora... Então esses são os 'gatinhos' que a Nancy me pediu pra tirar do saco? Vocês fazem um barulho tremendo lá atrás. Olhem para vocês... cobertos de gelo e cheirando a caranguejo morto."_
+
+> "Ele estala os dedos esqueléticos e um marujo morto-vivo se aproxima trazendo uma bandeja com canecas cheias de um líquido escuro e fervente."
+
+> _"Bebam o 'Óleo de Quilha'. Vai esquentar o sangue de vocês e tirar esse frio rúnico do corpo. Se a Nancy confia em vocês, eu também confio. Aquela grade de ferro ali na frente leva direto para a saída de Norba, longe dos guardas puristas da superfície. Mas antes de eu girar a manivela... me digam: o que vocês descobriram sobre o Dr. Emanuel e a garota que levaram por aqueles túneis?"_
+
+
+
 
 
 

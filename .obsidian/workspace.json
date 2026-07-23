@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd68794683a3e4b",
+        "id": "e4701133111b5476",
         "type": "tabs",
         "children": [
           {
-            "id": "eec1a699cb4fe9fc",
+            "id": "21d83cf897e19b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cidades/Norba/NPCs/Lyra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Lyra"
             }
           }
         ]
@@ -181,14 +185,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "eec1a699cb4fe9fc",
+  "active": "21d83cf897e19b11",
   "lastOpenFiles": [
+    "Cidades/Norba/NPCs/Nancy, a Cascuda.md",
+    "Cidades/Norba/NPCs/Lyra.md",
+    "Cidades/Norba/NPCs/Barnabé - O Sanguessuga.md",
+    "Cidades/Norba/NPCs/Alandor, o Prefeito.md",
+    "Cidades/Norba/NPCs/Dicfos Mão dourada (banqueiro).md",
+    "Cidades/Norba/NPCs/Rotho (Bardo).md",
+    "Cidades/Norba/NPCs/Tharlán, o comerciante.md",
+    "Aventura/Itens/Relatórios Puristas (01 ao 05).md",
     "Aventura/Planejamento/Sessão 02 - Planejamento.md",
-    "Aventura/Planejamento/Sessão 03 - Planejamento.md",
     "Aventura/Sessões/Aventura 03 - O Sangue do Mar e o Frio de Pedra.md",
+    "Aventura/Itens/Página Rasgada de um Diário de Campo.md",
+    "Aventura/Itens/Livro contabando rasgado.md",
+    "Aventura/Itens/Diário 03.md",
+    "Aventura/Itens/Diário 02.md",
+    "Aventura/Itens/Diário 01.md",
+    "Aventura/Planejamento/Sessão 03 - Planejamento.md",
     "Aventura/Notas/Aventura 02 notas 2.md",
     "Aventura/Notas/Aventura 02 Notas.md",
-    "Cidades/Norba/NPCs/Barnabé - O Sanguessuga.md",
     "Inimigos/ND 2/Gólem de Gelo Lunar.md",
     "Inimigos/ND 1 ou Menor/Caranguejo Gélido.md",
     "Inimigos/ND 1 ou Menor/Fanático Lunar.md",
@@ -198,26 +214,14 @@
     "imagens/Inimigos/Caranguejo Gélido Ficha.png",
     "imagens/Inimigos/Caranguejo Gelido.png",
     "imagens/Inimigos/Caranguejo gélido - Animal ND 1_2.pdf",
-    "Cidades/Norba/NPCs/Alandor, o Prefeito.md",
-    "Cidades/Norba/NPCs/Dicfos Mão dourada (banqueiro).md",
     "Aventura/Sessões/Aventura 02 - O Sangue no Gelo e os Segredos da Terra.md",
-    "Cidades/Norba/NPCs/Nancy, a Cascuda.md",
-    "Aventura/Itens/Diário 02.md",
-    "Aventura/Itens/Diário 03.md",
-    "Aventura/Itens/Livro contabando rasgado.md",
-    "Aventura/Itens/Página Rasgada de um Diário de Campo.md",
-    "Cidades/Norba/NPCs/Lyra.md",
-    "Aventura/Itens/Relatórios Puristas (01 ao 05).md",
     "Cenário/Norba Invertida.md",
-    "Aventura/Itens/Diário 01.md",
     "Pasted image 20260713110903.png",
     "imagens/Itens",
     "imagens/Itens/Diário 02.png",
     "imagens/NPC/Barnabé 02.png",
     "imagens/NPC/Barnabé 03.png",
     "imagens/NPC/Barnabé  Sanguessuga.png",
-    "Trama/Os cultos.md",
-    "Trama/Cidadões.md",
     "Sem título.base",
     "imagens/Aventura/aventura 02-02.jpg",
     "imagens/Aventura/aventura 02-02.jfif",

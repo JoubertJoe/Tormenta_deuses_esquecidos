@@ -9,4 +9,4 @@ Ataque:
 - 1d4+1
 
 
-![[cultista01.jpg|333]]
+![[imagens/NPCs/cultista01.jpg|333]]

@@ -2,7 +2,7 @@
 **Humano, Guerreiro (ND 1)** — _Ameaça Moderada para Nível 4 em dupla._
 
 ---
-![[bbeeb983-c32b-4c2a-afe2-5b1c11ecb891.png|315]]
+![[Soldado Raso Purista.png|315]]
 
 | Iniciativa | Percepção | Defesa | Fort | Ref | Von | CD  | PV  | Deslocamento |
 | ---------- | --------- | ------ | ---- | --- | --- | --- | --- | ------------ |
@@ -35,3 +35,5 @@ Habilidades:
 ---
 Magias:
 Nome Magia: Descrição
+
+

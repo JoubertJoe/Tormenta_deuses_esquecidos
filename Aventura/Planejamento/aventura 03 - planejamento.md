@@ -42,7 +42,7 @@ Caso questionem a "sensibilidade":
 
 Ao subirem pela passagem secreta do esgoto para a antiga destilaria/taverna de Barnabé, os heróis encontram o local ocupado por soldados da Supremacia.
 
-#### Soldado Purista (x2)
+[[Soldado Raso Purista]] X2
 
 
 ###  A Máquina Purista de Álcool de Avelã
@@ -60,20 +60,22 @@ No centro da taverna há um alambique modificado: um **Destilador Rúnico Purist
 
 Enquanto cruzam Norba Invertida usando o mapa, os heróis encontram registros espalhados que revelam a dinâmica das duas facções rivalizando por Lyra:
 
-1. **Pista Purista (Preconceito e Limpeza):** Um relatório de patrulha assinado por um cabo purista.
+1. [[Relatório Operacional da Supremacia Purista]]
     
-    > _"A abominação alada de sangue misto foi contida. Não possui valor militar, mas seu sangue impuro não sujará a superfície. Manter enjaulada até a chegada das carretas de transporte do Dr. Emanuel."_
-    
-2. **Pista Cultista (O Pincel da Verdadeira Lua):** Um pergaminho criptografado rasgado em um altar profanado de Tenebra.
+2. [[Pergaminho Rasgado - O Pincel da Verdadeira Lua]]
     
     > _"Ela é os Olhos. A mente humana enlouquece ao encarar a Verdadeira Lua que se ergue nas sombras da Tormenta, mas a garota consegue traduzir a geometria proibida em tinta. Com seus desenhos, traçaremos o círculo. Ela é a Escolhida para moldar a imagem da nova Deusa, mesmo que ainda não saiba o peso do sangue que carrega."_
     
 
 ## Ato 3: Os Combates de Chefe (Boss & Boss Opcional)
 
-###  Boss Principal: O Purista Blindado (O Arauto da Lua Caída)
+###  Boss Principal: O Purista Blindado
 
 Este chefe guarda o cativeiro onde Lyra está presa. Ele é um Purista revestido por uma armadura de placas.
+
+[[Blindado Purista]] x1
+[[Soldado Raso Purista]] x2
+
 
 ---
 

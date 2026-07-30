@@ -17,4 +17,4 @@ Personalidade:
 
 Ele acredita sinceramente que a "Filha da Lua" vai salvar Arton.
 
-![[cultista02.jpg|249]]
+![[imagens/NPCs/cultista02.jpg|249]]

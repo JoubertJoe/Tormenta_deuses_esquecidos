@@ -16,12 +16,10 @@ A técnica metalúrgica usada nessas couraças é impressionante; cada peça é 
 | +5         | +7        | 32     | +15  | +6  | +14 | 0   | 135 | 6m / 4Q      |
 
 ---
-Corpo a Corpo Martelo de guerra +16
-(2d8+2, x3)
 
-| Ataque | Bonus | Dano | Crítico |
-| ------ | ----- | ---- | ------- |
-| 16     | 2     | 2D8  | x3      |
+| Ataque            | Bonus | Dano  | Crítico |
+| ----------------- | ----- | ----- | ------- |
+| Martelo de guerra | 16    | 2D8+2 | x3      |
 
 ---
 **Status:**

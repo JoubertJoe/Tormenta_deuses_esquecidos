@@ -55,12 +55,14 @@
             "id": "51c34aa0bfee4499",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens/Inimigos/vibora.jpg"
+                "file": "Cenário/Norba Invertida.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "vibora"
+              "icon": "lucide-file",
+              "title": "Norba Invertida"
             }
           }
         ],
@@ -230,6 +232,8 @@
   },
   "active": "51c34aa0bfee4499",
   "lastOpenFiles": [
+    "Inimigos/ND 2/Gólem de Gelo Lunar.md",
+    "imagens/Inimigos/vibora.jpg",
     "imagens/Inimigos/olho de tenebra2.jpg",
     "imagens/Inimigos/olho de tenebra.jpg",
     "imagens/Inimigos/mimico01.jpg",
@@ -239,8 +243,6 @@
     "imagens/Inimigos/ND2/Ficha/Golem de gelo lunar ficha.png",
     "imagens/Inimigos/clerigo morto vivo.jpg",
     "imagens/Inimigos/assassino morto vivo.jpg",
-    "imagens/Inimigos/Token/simboloCulto.png",
-    "imagens/Inimigos/Token/loboCorrompido.png",
     "imagens/Inimigos/Purista/ND4",
     "imagens/Inimigos/Purista/ND1",
     "imagens/Inimigos/ND2/Ficha/Golem de gelo lunar.pdf",
@@ -270,7 +272,6 @@
     "Inimigos/ND 1 ou Menor/Fanático Lunar (Líder).md",
     "Inimigos/ND 1 ou Menor/Caranguejo Gélido.md",
     "Inimigos/ND 1 ou Menor/Fanático Lunar.md",
-    "Inimigos/ND 2/Gólem de Gelo Lunar.md",
     "Aventura/Sessões/Aventura 0 (Prólogo).md",
     "Aventura/Planejamento/Sessão 03 - Planejamento.md",
     "Cidades/Norba/NPCs/Lyra.md",

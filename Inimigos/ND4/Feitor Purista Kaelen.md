@@ -12,10 +12,10 @@ Humano, Capitão de Guarnição (ND 4)
 
 ---
 
-|Ataque|Bonus|Dano|Crítico|
-|---|---|---|---|
-|Alabarda Purista|+11|1d10+7 (Alcance 3m)|x3|
-|Besta Pesada|+8|1d10+4|19–20/x2|
+| Ataque           | Bonus | Dano                | Crítico  |
+| ---------------- | ----- | ------------------- | -------- |
+| Alabarda Purista | +11   | 1d10+7 (Alcance 3m) | x3       |
+| Besta Pesada     | +8    | 1d10+4              | 19–20/x2 |
 
 ---
 

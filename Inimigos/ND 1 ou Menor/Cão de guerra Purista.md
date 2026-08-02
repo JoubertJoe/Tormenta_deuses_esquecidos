@@ -10,9 +10,9 @@ Animal (Médio) — ND 1
 
 ---
 
-|Ataque|Bonus|Dano|Crítico|
-|---|---|---|---|
-|Mordida|+7|1d6+4|x2|
+| Ataque  | Bonus | Dano  | Crítico |
+| ------- | ----- | ----- | ------- |
+| Mordida | +7    | 1d6+4 | x2      |
 
 ---
 

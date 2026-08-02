@@ -4,69 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e4701133111b5476",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21d83cf897e19b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aventura/Planejamento/Aventura 03 - planejamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aventura 03 - planejamento"
-            }
-          }
-        ]
-      },
-      {
         "id": "de65217566765c66",
         "type": "tabs",
         "children": [
-          {
-            "id": "b4cb37c4a4b4b5f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/Inimigos/Purista/ND1/Soldado Raso Purista.png"
-              },
-              "icon": "lucide-image",
-              "title": "Soldado Raso Purista"
-            }
-          },
-          {
-            "id": "65eaf653d7a72078",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagens/Inimigos/Purista/ND4/Feitor Purista Kaelen.png"
-              },
-              "icon": "lucide-image",
-              "title": "Feitor Purista Kaelen"
-            }
-          },
           {
             "id": "51c34aa0bfee4499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cenário/Norba Invertida.md",
+                "file": "Aventura/Itens/Norba Invertida/SUPREMACIA PURISTA — RELATÓRIO DE INSPECÇÃO DE DOCK & CANAIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Norba Invertida"
+              "title": "SUPREMACIA PURISTA — RELATÓRIO DE INSPECÇÃO DE DOCK & CANAIS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "71e513a6bc92e4eb",
@@ -232,52 +187,53 @@
   },
   "active": "51c34aa0bfee4499",
   "lastOpenFiles": [
+    "Aventura/Itens/Norba Invertida/Pergaminho Rasgado - O Pincel da Verdadeira Lua.md",
+    "Aventura/Itens/Norba Invertida/SUPREMACIA PURISTA — RELATÓRIO DE INSPECÇÃO DE DOCK & CANAIS.md",
+    "Aventura/Planejamento/Aventura 03 - planejamento.md",
+    "Aventura/Planejamento/Aventura 02 - Planejamento.md",
+    "Aventura/Itens/Norba Invertida/Relatório Operacional da Supremacia Purista.md",
+    "Aventura/Itens/Livro contabando rasgado.md",
+    "Aventura/Itens/Relatórios Puristas (01 ao 05).md",
+    "Aventura/Notas/Aventura 02 notas 2.md",
+    "Inimigos/ND4/Feitor Purista Kaelen.md",
+    "NPC/Grogue.md",
+    "imagens/NPCs Especiais/Lyra02.png",
+    "imagens/NPCs Especiais/614f7216-522b-43d2-892e-e13b5c0b8d53.png",
+    "imagens/NPCs Especiais/Não confirmado 534473.crdownload",
+    "imagens/NPCs Especiais/Lyra.jpg",
+    "imagens/NPCs Especiais/Não confirmado 777656.crdownload",
+    "Inimigos/TEMPLATE.md",
+    "Inimigos/ND 1 ou Menor/Cão de guerra Purista.md",
+    "imagens/Inimigos/Purista/ND4/Feitor Purista Kaelen.png",
+    "imagens/NPC/Grogue02.png",
+    "imagens/NPC/Não confirmado 33996.crdownload",
+    "imagens/NPC/Grogue01.png",
+    "imagens/NPC/Não confirmado 209868.crdownload",
+    "Inimigos/ND4/Blindado Purista.md",
+    "Pasted image 20260730092652.png",
+    "NPC/Hakkotsumaru.md",
+    "Trama/Cidadões.md",
+    "Trama/Os cultos.md",
+    "Cenário/Norba Invertida.md",
     "Inimigos/ND 2/Gólem de Gelo Lunar.md",
     "imagens/Inimigos/vibora.jpg",
     "imagens/Inimigos/olho de tenebra2.jpg",
     "imagens/Inimigos/olho de tenebra.jpg",
-    "imagens/Inimigos/mimico01.jpg",
-    "imagens/Inimigos/lobo corrompido01.jpg",
-    "imagens/Inimigos/Livro Monstro.png",
-    "imagens/Inimigos/kobold.jpg",
-    "imagens/Inimigos/ND2/Ficha/Golem de gelo lunar ficha.png",
-    "imagens/Inimigos/clerigo morto vivo.jpg",
-    "imagens/Inimigos/assassino morto vivo.jpg",
     "imagens/Inimigos/Purista/ND4",
     "imagens/Inimigos/Purista/ND1",
     "imagens/Inimigos/ND2/Ficha/Golem de gelo lunar.pdf",
     "imagens/Inimigos/ND2/Ficha",
     "imagens/Inimigos/ND2",
     "imagens/Inimigos/ND1/Ficha/Caranguejo gélido - Animal ND 1_2.pdf",
-    "imagens/Inimigos/ND1/Ficha",
-    "imagens/Inimigos/ND1",
-    "imagens/Inimigos/Purista/Boss",
-    "Sem título 1.base",
     "Sem título.canvas",
-    "Inimigos/ND 1 ou Menor/Cão de guerra Purista.md",
     "Inimigos/ND 1 ou Menor/Soldado Raso Purista.md",
     "Inimigos/ND 1 ou Menor/Livro da Tormenta ND1.md",
-    "Inimigos/ND4/Feitor Purista Kaelen.md",
-    "Aventura/Planejamento/Aventura 03 - planejamento.md",
-    "Inimigos/TEMPLATE.md",
-    "Aventura/Itens/Norba Invertida/Relatório Operacional da Supremacia Purista.md",
     "Aventura/Planejamento/Aventura 01 - Planejamento.md",
-    "Aventura/Planejamento/Aventura 02 - Planejamento.md",
-    "Aventura/Itens/Norba Invertida/Pergaminho Rasgado - O Pincel da Verdadeira Lua.md",
-    "Aventura/Notas/Aventura 02 notas 2.md",
-    "Inimigos/ND4/Blindado Purista.md",
-    "Trama/Cidadões.md",
-    "Trama/Os cultos.md",
     "Inimigos/ND 1 ou Menor/Filhote de Caranguejo de Gelo.md",
     "Inimigos/ND 1 ou Menor/Fanático Lunar (Líder).md",
     "Inimigos/ND 1 ou Menor/Caranguejo Gélido.md",
     "Inimigos/ND 1 ou Menor/Fanático Lunar.md",
     "Aventura/Sessões/Aventura 0 (Prólogo).md",
-    "Aventura/Planejamento/Sessão 03 - Planejamento.md",
-    "Cidades/Norba/NPCs/Lyra.md",
-    "Cidades/Norba/NPCs/Nancy, a Cascuda.md",
-    "Cidades/Norba/NPCs/Barnabé - O Sanguessuga.md",
-    "Cidades/Norba/NPCs/Alandor, o Prefeito.md",
     "Ideias.canvas",
     "Deuses.canvas"
   ]

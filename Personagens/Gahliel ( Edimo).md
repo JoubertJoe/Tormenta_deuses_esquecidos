@@ -44,3 +44,36 @@
 > **Nota Secreta para o Mestre:** Use o disfarce dele a seu favor. Se o grupo for investigar um ambiente urbano controlado ou influenciado por puristas, a identidade de "humano cheio de cicatrizes de guerra" de Gahliel pode permitir que ele se infiltre onde os outros membros não-humanos do grupo jamais conseguiriam entrar — gerando um paradoxo dramático incrível, onde ele precisa fingir tolerar os Puristas para conseguir informações.
 
 ______
+
+
+## Complemento de ficha — PDF de Edimo
+
+- **Nome:** Gahliel
+- **Raça:** Dahllan
+- **Classe:** Clérigo, nível 4
+- **Origem:** Gladiador
+- **Divindade:** Arsenal
+- **PV:** 34/36 · **PM:** 8/25 · **Defesa:** 19
+- **Atributos:** For +1, Des +1, Con +2, Int +2, Sab +5, Car 0
+- **Ataques:** Martelo de Guerra +5 (1d8+1, crítico x3, impacto); Martelo de Guerra Abençoado +9 (1d10+5, crítico x3, impacto)
+### Poderes e habilidades
+- [Abençoar Arma](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Aben%C3%A7oar%20Arma) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Aben%C3%A7oar%20Arma)
+- [Devoto Fiel](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Devoto%20Fiel) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Devoto%20Fiel)
+- [Magias](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Magias) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Magias)
+- [Amigo das Plantas](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Amigo%20das%20Plantas) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Amigo%20das%20Plantas)
+- [Armadura de Allihanna](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Armadura%20de%20Allihanna) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Armadura%20de%20Allihanna)
+- [Empatia Selvagem](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Empatia%20Selvagem) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Empatia%20Selvagem)
+- [Fé Guerreira](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20F%C3%A9%20Guerreira) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20F%C3%A9%20Guerreira)
+- [Sangue de Ferro](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Sangue%20de%20Ferro) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Sangue%20de%20Ferro)
+- [Bloqueio com Escudo](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Bloqueio%20com%20Escudo) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Bloqueio%20com%20Escudo)
+- [Combate Defensivo](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Combate%20Defensivo) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Combate%20Defensivo)
+- [Estilo de Arma e Escudo](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Estilo%20de%20Arma%20e%20Escudo) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Estilo%20de%20Arma%20e%20Escudo)
+- [Combate Sujo](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Combate%20Sujo) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Combate%20Sujo)
+### Magias registradas na ficha
+- [Arma Espiritual](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Arma%20Espiritual) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Arma%20Espiritual)
+- [Benção](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Ben%C3%A7%C3%A3o) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Ben%C3%A7%C3%A3o)
+- [Consagrar](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Consagrar) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Consagrar)
+- [Controlar Plantas](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Controlar%20Plantas) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Controlar%20Plantas)
+- [Curar Ferimentos](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Curar%20Ferimentos) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Curar%20Ferimentos)
+- [Escudo da Fé](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Escudo%20da%20F%C3%A9) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Escudo%20da%20F%C3%A9)
+- [Perdição](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Perdi%C3%A7%C3%A3o) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Perdi%C3%A7%C3%A3o)

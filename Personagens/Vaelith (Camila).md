@@ -43,3 +43,33 @@ Mestre dela se chama RAMIEL
     
 - **Fidelidade ao Grupo:** Embora fechada, uma vez que o grupo conquiste sua amizade, ela se torna uma aliada extremamente leal. Use ameaças direcionadas aos companheiros dela para fazê-la quebrar a postura introspectiva e usar todo o seu poder místico.
 ![[Vaelith.jpeg]]
+
+## Complemento de ficha — PDF de Camila
+
+- **Nome:** Vaellith Nyxariel (Vaelith)
+- **Raça:** Suraggel (Sulfure)
+- **Classe:** Arcanista (Bruxo), nível 4
+- **Origem:** Forasteiro
+- **Divindade:** Tenebra
+- **PV:** 17/18 · **PM:** 8/29 · **Defesa:** 23
+- **Atributos:** For 0, Des +4, Con +1, Int +5, Sab +1, Car −1
+- **Ataque:** Adaga +4, 1d4+2, crítico 19, perfuração
+- **Familiar:** Coruja. Magias de alcance toque podem ser lançadas com alcance curto pagando PM.
+### Poderes e habilidades
+- [Conhecimento Mágico](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Conhecimento%20M%C3%A1gico) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Conhecimento%20M%C3%A1gico)
+- [Familiar (Coruja)](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Familiar%20(Coruja)) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Familiar%20(Coruja))
+- [Sombras Profanas](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Sombras%20Profanas) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Sombras%20Profanas)
+- [Cultura Exótica](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Cultura%20Ex%C3%B3tica) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Cultura%20Ex%C3%B3tica)
+- [Visão nas Trevas](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Vis%C3%A3o%20nas%20Trevas) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Vis%C3%A3o%20nas%20Trevas)
+### Magias registradas na ficha
+- [Adaga Mental](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Adaga%20Mental) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Adaga%20Mental)
+- [Amedrontar](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Amedrontar) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Amedrontar)
+- [Armadura Arcana](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Armadura%20Arcana) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Armadura%20Arcana)
+- [Compreensão](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Compreens%C3%A3o) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Compreens%C3%A3o)
+- [Disfarce Ilusório](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Disfarce%20Ilus%C3%B3rio) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Disfarce%20Ilus%C3%B3rio)
+- [Escuridão](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Escurid%C3%A3o) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Escurid%C3%A3o)
+- [Explosão de Chamas](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Explos%C3%A3o%20de%20Chamas) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Explos%C3%A3o%20de%20Chamas)
+- [Toque Chocante](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Toque%20Chocante) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Toque%20Chocante)
+- [Transmutar Objetos](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Transmutar%20Objetos) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Transmutar%20Objetos)
+- [Visão Mística](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Vis%C3%A3o%20M%C3%ADstica) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Vis%C3%A3o%20M%C3%ADstica)
+- [Vitalidade Fantasma](https://www.google.com/search?q=site%3Afichasdenimb.com.br%20Tormenta%2020%20Vitalidade%20Fantasma) — [Wiki](https://www.google.com/search?q=Tormenta%2020%20Wiki%20Vitalidade%20Fantasma)
